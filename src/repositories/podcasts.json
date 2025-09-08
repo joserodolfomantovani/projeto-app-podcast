@@ -17,5 +17,15 @@
             "esporte",
             "corrida"
         ]
+    },
+    {
+        "podcastName": "teste",
+        "episode": "Tetse - teste 888339",
+        "videoId": "0000",
+        "categories": [
+            "esporte",
+            "corrida",
+            "Programação"
+        ]
     }
 ]
